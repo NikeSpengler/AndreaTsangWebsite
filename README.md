@@ -6,4 +6,4 @@ I have had the honor of helping the amazingly skilled potter Andrea Tsang update
 
 Shopify, rebranding, graphic design, UX, CEO and some code changes in shopifys own coding language Liquid.
 
-<img width="1175" alt="Skärmavbild 2024-05-09 kl  15 29 08" src="https://github.com/NikeSpengler/AndreaTsangWebsite/assets/32640656/fb3a490b-b0a0-4bfd-9e24-978d3db95e1b">
+<img width="1176" alt="Skärmavbild 2024-05-10 kl  11 10 50" src="https://github.com/NikeSpengler/AndreaTsangWebsite/assets/32640656/19f9b3a2-79ae-468a-bf7a-81c4829aa403">
